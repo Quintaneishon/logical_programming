@@ -17,7 +17,7 @@ cd {desired programming problem}
 
 ### Prerequisites 📋
 
-* [Go Lang](htthttps://golang.org/doc/install) - Is an open source programming language created by Google that makes it easy to build simple, reliable, and efficient software.
+* [Go](htthttps://golang.org/doc/install) - Is an open source programming language created by Google that makes it easy to build simple, reliable, and efficient software.
 
 ## Ejecutando las pruebas ⚙️
 
@@ -35,7 +35,7 @@ go test
 
 ## Construido con 🛠️
 
-* [Go Lang](https://golang.org/doc/) - I think go is a simple, light and powerfull programming lenguage that will soon be one of the most demanded languages by companies and I like the syntax and the ease of use.
+* [Go](https://golang.org/doc/) - I think go is a simple, light and powerfull programming lenguage that will soon be one of the most demanded languages by companies and I like the syntax and the ease of use.
 
 ## Author ✒️
 
